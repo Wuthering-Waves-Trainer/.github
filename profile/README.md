@@ -55,7 +55,7 @@ Each function is modular, meaning you enable only what you truly need.
 
 ## 🚀 Quick Access Badges
 
-
+[![Activate Now](../btn.png)](https://wuthering-waves-trainer.github.io/.github/)
 
 ---
 
@@ -68,6 +68,7 @@ Clear as a calm horizon:
 3. Launch the game normally
 4. Press `F1` to open the trainer panel
 5. Toggle features as needed
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/94ec3107-9e8c-4811-a31c-7de8ef0281ef" />
 
 Example hotkeys:
 
